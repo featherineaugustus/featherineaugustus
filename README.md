@@ -24,8 +24,8 @@
 <a href="https://linkedin.com/in/https://sg.linkedin.com/in/pehweiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://sg.linkedin.com/in/pehweiyan" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=featherineaugustus&show_icons=true&locale=en&layout=compact" alt="featherineaugustus" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=featherineaugustus&show_icons=true&locale=en&layout=compact" alt="featherineaugustus" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=featherineaugustus&show_icons=true&locale=en" alt="featherineaugustus" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=featherineaugustus&show_icons=true&locale=en" alt="featherineaugustus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=featherineaugustus&" alt="featherineaugustus" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=featherineaugustus&" alt="featherineaugustus" /></p>
