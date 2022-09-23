@@ -7,9 +7,9 @@
 <h3 align="center">My github consist of work unrelated to my PhD thesis however. Instead, it contains mini-projects I had found online and editted and beautified, in order to make them more comprehensible to the wider audience. By no means I claim any work belongs to me.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=featherineaugustus&label=Profile%20views&color=0e75b6&style=flat" alt="featherineaugustus" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=featherineaugustus&label=Profile%20views&color=0e75b6&style=flat" alt="featherineaugustus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=featherineaugustus" alt="featherineaugustus" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=featherineaugustus" alt="featherineaugustus" /></a> </p>
 
 - 🔭 I’m currently working on **different machine learning projects to expand my industrial knowledge.**
 
@@ -19,8 +19,8 @@
 
 - 📝 My Google Scholar is at [https://scholar.google.com/citations?user=jJK0jc8AAAAJ&hl=en](https://scholar.google.com/citations?user=jJK0jc8AAAAJ&hl=en)
 
-<h3 align="left">Connect with me at my Linkedin:</h3>
-<p align="left">
+<h3 align="center">Connect with me at my Linkedin:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://sg.linkedin.com/in/pehweiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://sg.linkedin.com/in/pehweiyan" height="30" width="40" /></a>
 </p>
 
