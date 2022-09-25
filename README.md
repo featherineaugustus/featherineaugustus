@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on **different machine learning projects to expand my industrial knowledge.**
 
-- 🌱 I’m currently learning **NLP, Reinforcement Learning, Linux, Git, and many more**
+- 🌱 I’m currently learning **NLP, Reinforcement Learning, Linux, Git, and many more.**
 
-- 👨‍💻 All of my projects are available at in github at [https://github.com/featherineaugustus](https://github.com/featherineaugustus)
+- 👨‍💻 All of my projects are available at in github at [https://github.com/featherineaugustus](https://github.com/featherineaugustus).
 
-- 📝 My Google Scholar is at [https://scholar.google.com/citations?user=jJK0jc8AAAAJ&hl=en](https://scholar.google.com/citations?user=jJK0jc8AAAAJ&hl=en)
+- 📝 My Google Scholar is at [https://scholar.google.com/citations?user=jJK0jc8AAAAJ&hl=en](https://scholar.google.com/citations?user=jJK0jc8AAAAJ&hl=en).
 
 <h3 align="center">Connect with me at my Linkedin:</h3>
 <p align="center">
