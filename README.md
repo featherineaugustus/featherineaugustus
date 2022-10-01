@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wei Yan</h1>
 
+<!--
 <h3 align="center">I am a final year PhD Candidate at Nanyang Technological University, Singapore.</h3>
+//-->
 
 <!--
 <h3 align="center">My thesis is on the application of different deep learning frameworks to detect abnormalities in electroencephalogram (EEG). EEG signals are extremely noisy by nature, with extremely low signal-to-noise ratio (SNR). Hence, detecting, identifying, and locating abnormalities not limited to spikes, slow waves, artifacts, and seizures can be extremely challenging. The gold standard for EEG annotation remains in the hands of neurologist and trained technicians. My thesis hence explore the possibility to automate the EEG reviewing process via various machine and deep learning approachs.</h3>
