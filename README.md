@@ -8,7 +8,7 @@
 <h3 align="center">My thesis is on the application of different deep learning frameworks to detect abnormalities in electroencephalogram (EEG). EEG signals are extremely noisy by nature, with extremely low signal-to-noise ratio (SNR). Hence, detecting, identifying, and locating abnormalities not limited to spikes, slow waves, artifacts, and seizures can be extremely challenging. The gold standard for EEG annotation remains in the hands of neurologist and trained technicians. My thesis hence explore the possibility to automate the EEG reviewing process via various machine and deep learning approachs.</h3>
 //-->
 
-<h3 align="center">My github consist of contains mini-projects, leetcode questions, and other stuff I had found online or other means. For these projects, I had editted and beautified the source code, to make them more comprehensible to the wider audience. By no means I claim any work belongs to me unless clearly stated otherwise.</h3>
+<h3 align="center">My github consist of contains mini-projects, leetcode questions, and other stuff I had found online. For these projects, I had editted and beautified the source code, to make them more comprehensible to the wider audience. By no means I claim any work belongs to me unless clearly stated otherwise.</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=featherineaugustus&label=Profile%20views&color=0e75b6&style=flat" alt="featherineaugustus" /> </p>
